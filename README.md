@@ -1,2 +1,2 @@
 # Urlshortener
-A tool programmed  to shorten links/mask links 
+A tool programmed to shorten/mask links 
