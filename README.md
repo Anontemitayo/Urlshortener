@@ -11,6 +11,7 @@ git clone https://github.com/Anontemitayo/Urlshortener
 cd Urlshortener
 
 Run :
+
 For termux 
 
 python Urlshortener.py
