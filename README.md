@@ -1,4 +1,4 @@
-# Urlshorten
+# Urlshortener
 
 apt update
 
@@ -19,5 +19,8 @@ python Urlshortener.py
 For Linux 
 
 python3 Urlshortener.py
+
+#Note 
+
 
 Do not forget to follow me for more tools 
